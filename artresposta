@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio teste</title>
+</head>
+
+<body>
+
+    <header>
+
+        <img src="aluno coloque aqui a foto da atividade "Protagonismo Negro" alt="foto da atividade do aluno" width="200">
+        <h2>DESAFIO <h2>
+            <h2>IMPLEMENTAÇÃO DE PROGRAMAÇÃO</h2>
+        <p> Olá! Meu nome é Samuel de Carvalho Mendes e Silva.<p>
+        <p> Estudo no Colégio Cívico-Militar Padre Antônio Vieira em São José dos Pinhais/Paraná.</p>
+        <p> Sou aluno(a) do 1º ano do ensino médio da professora Andreza de arte.</p>
+        
+        <span>PROPOSTA DE ATIVIDADE:</span>
+<Br>
+        <p>Faça uma reflexão do conteúdo trabalhado de forma prática sobre o "Protagonismo Negro nas Artes Visuais" e/ou sobre o conteúdo teórico-prático "A moda ao longo do tempo". Para isto, responda as duas questões abaixo: </p>
+           
+        <ul>
+                <li>1. Conte como foi esta experiência para você.</li>
+                <li>2. O que aprendeu sobre você mesmo?</li>
+        </ul>
+
+    </header> 
+
+    <main>
+    </main>
+
+    <footer>
+
+<Br>
+        <h4> Acesse a página abaixo. </h4>
+<Br>
+        <a href="https://github.dev/andrezafigueiredo-tech">Github</a>
+        <p> Conteúdo de resposta produzido por: coloque seu nome aluno. </p>
+
+    </footer>
+
+</body>
+</html>
